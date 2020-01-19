@@ -1778,6 +1778,18 @@ a:visited {
   font-weight: 700;
 }
 
+
+.video-one__box1 {
+  position: relative;
+  border-radius: 5px;
+}
+.video-one__box1 > img {
+  width: 50%;
+  border-radius: 5px;
+}
+.video-one__box1:hover .video-one__content {
+  background-color: rgba(42, 40, 51, 0.2);
+}
 /*
 * 9. brand styles
 */
