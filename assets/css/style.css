@@ -1579,7 +1579,7 @@ a:visited {
 .footer-widget__title {
   font-size: 18px;
   font-weight: 500;
-  color: #2a2833;
+  color: #efefef;
   margin: 0;
   line-height: 1em;
   margin-bottom: 40px;
@@ -1609,7 +1609,7 @@ a:visited {
 .footer-widget__contact {
   font-size: 16px;
   font-weight: 400;
-  color: #74727a;
+  color: #efefef;
   margin: 0;
   line-height: 30px;
 }
